@@ -18,4 +18,6 @@ namespace Symfony\Bundle;
  */
 final class FullStack
 {
+    foobar
+eu to adorando usar git
 }
